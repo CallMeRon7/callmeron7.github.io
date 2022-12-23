@@ -1,0 +1,21 @@
+main:
+  - title: "Projects"
+    url: /projects/
+  - title: "About"
+    url: /about/
+
+side:
+  - title: Home
+    url: /
+
+  - title: About
+    url: /about/
+  
+  - title: Projects
+    url: /projects
+    children:
+      - title: "Hydroponics Monitoring System"
+        url: /posts/HMS
+      - title: "Collaborative Virtual Reality Maze"
+        url: /posts/VRMaze
+
